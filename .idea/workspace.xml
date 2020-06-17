@@ -4,8 +4,6 @@
     <list default="true" id="3f469a9f-9146-4b17-8726-17b0c1df9591" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +58,9 @@
       <option name="presentableId" value="Default" />
       <updated>1591967716202</updated>
       <workItem from="1591967717696" duration="646000" />
-      <workItem from="1592225488063" duration="1604000" />
+      <workItem from="1592225488063" duration="1812000" />
+      <workItem from="1592312400244" duration="683000" />
+      <workItem from="1592396653277" duration="1878000" />
     </task>
     <task id="LOCAL-00001" summary="초기 코드">
       <created>1592225752092</created>
@@ -76,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592225856921</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="초기 소스 세팅">
+      <created>1592227236576</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592227236576</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,40 +91,41 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="초기 코드" />
-    <option name="LAST_COMMIT_MESSAGE" value="초기 코드" />
+    <MESSAGE value="초기 소스 세팅" />
+    <option name="LAST_COMMIT_MESSAGE" value="초기 소스 세팅" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1672" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592226820510">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1672" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592226820510" />
-    <state x="1299" y="85" key="CommitChangelistDialog2" timestamp="1592225848574">
+    <state x="1299" y="85" key="CommitChangelistDialog2" timestamp="1592227227926">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1299" y="85" key="CommitChangelistDialog2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592225848574" />
-    <state width="1220" height="279" key="GridCell.Tab.0.bottom" timestamp="1592225693406">
+    <state x="1299" y="85" key="CommitChangelistDialog2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592227227926" />
+    <state width="1220" height="279" key="GridCell.Tab.0.bottom" timestamp="1592227301769">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1220" height="279" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592225693406" />
-    <state width="1220" height="279" key="GridCell.Tab.0.center" timestamp="1592225693406">
+    <state width="1220" height="279" key="GridCell.Tab.0.bottom/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592227301769" />
+    <state width="1220" height="279" key="GridCell.Tab.0.center" timestamp="1592227301769">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1220" height="279" key="GridCell.Tab.0.center/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592225693406" />
-    <state width="1220" height="279" key="GridCell.Tab.0.left" timestamp="1592225693406">
+    <state width="1220" height="279" key="GridCell.Tab.0.center/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592227301769" />
+    <state width="1220" height="279" key="GridCell.Tab.0.left" timestamp="1592227301769">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1220" height="279" key="GridCell.Tab.0.left/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592225693406" />
-    <state width="1220" height="279" key="GridCell.Tab.0.right" timestamp="1592225693406">
+    <state width="1220" height="279" key="GridCell.Tab.0.left/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592227301769" />
+    <state width="1220" height="279" key="GridCell.Tab.0.right" timestamp="1592227301769">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1220" height="279" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592225693406" />
+    <state width="1220" height="279" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592227301769" />
     <state x="1421" y="165" key="SettingsEditor" timestamp="1591967816955">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1421" y="165" key="SettingsEditor/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1591967816955" />
-    <state x="1274" y="253" key="Vcs.Push.Dialog.v2" timestamp="1592225878405">
+    <state x="1274" y="253" key="Vcs.Push.Dialog.v2" timestamp="1592227248439">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1274" y="253" key="Vcs.Push.Dialog.v2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592225878405" />
+    <state x="1274" y="253" key="Vcs.Push.Dialog.v2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592227248439" />
   </component>
 </project>
