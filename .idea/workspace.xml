@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f469a9f-9146-4b17-8726-17b0c1df9591" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/alberto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/buffet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/uthappizza.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +48,14 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.14.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\IdeaProjects\untitled1\img" />
       <recent name="C:\Users\ADMIN\IdeaProjects\untitled1" />
     </key>
   </component>
@@ -72,7 +78,9 @@
       <workItem from="1592575686002" duration="11000" />
       <workItem from="1592657193327" duration="2408000" />
       <workItem from="1592725800565" duration="1363000" />
-      <workItem from="1592827354761" duration="1781000" />
+      <workItem from="1592827354761" duration="2704000" />
+      <workItem from="1592915589683" duration="39000" />
+      <workItem from="1592915645763" duration="797000" />
     </task>
     <task id="LOCAL-00001" summary="초기 코드">
       <created>1592225752092</created>
@@ -130,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592727133411</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="bootstrap Table, Card">
+      <created>1592829397107</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592829397107</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,17 +159,18 @@
     <MESSAGE value="bootstrap navigation" />
     <MESSAGE value="bootstrap icon, button" />
     <MESSAGE value="bootstrap form" />
-    <option name="LAST_COMMIT_MESSAGE" value="bootstrap form" />
+    <MESSAGE value="bootstrap Table, Card" />
+    <option name="LAST_COMMIT_MESSAGE" value="bootstrap Table, Card" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1672" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592226820510">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1672" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592226820510" />
-    <state x="1299" y="85" key="CommitChangelistDialog2" timestamp="1592727125034">
+    <state x="1299" y="85" key="CommitChangelistDialog2" timestamp="1592829388043">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1299" y="85" key="CommitChangelistDialog2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592727125034" />
+    <state x="1299" y="85" key="CommitChangelistDialog2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592829388043" />
     <state width="1220" height="279" key="GridCell.Tab.0.bottom" timestamp="1592227301769">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -175,10 +191,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1421" y="165" key="SettingsEditor/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1591967816955" />
-    <state x="1274" y="253" key="Vcs.Push.Dialog.v2" timestamp="1592727146928">
+    <state x="1274" y="253" key="Vcs.Push.Dialog.v2" timestamp="1592829640307">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1274" y="253" key="Vcs.Push.Dialog.v2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592727146928" />
+    <state x="1274" y="253" key="Vcs.Push.Dialog.v2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592829640307" />
     <state x="1576" y="242" key="run.anything.popup" timestamp="1592658653063">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
