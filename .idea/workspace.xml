@@ -76,7 +76,8 @@
       <workItem from="1592827354761" duration="2704000" />
       <workItem from="1592915589683" duration="39000" />
       <workItem from="1592915645763" duration="1007000" />
-      <workItem from="1593002347823" duration="455000" />
+      <workItem from="1593002347823" duration="575000" />
+      <workItem from="1593087517486" duration="2280000" />
     </task>
     <task id="LOCAL-00001" summary="초기 코드">
       <created>1592225752092</created>
@@ -148,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592916586508</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="bootstrap Alert">
+      <created>1593002881101</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1593002881101</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,17 +172,18 @@
     <MESSAGE value="bootstrap form" />
     <MESSAGE value="bootstrap Table, Card" />
     <MESSAGE value="bootstrap Image, Media" />
-    <option name="LAST_COMMIT_MESSAGE" value="bootstrap Image, Media" />
+    <MESSAGE value="bootstrap Alert" />
+    <option name="LAST_COMMIT_MESSAGE" value="bootstrap Alert" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1672" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592226820510">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1672" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592226820510" />
-    <state x="1299" y="85" key="CommitChangelistDialog2" timestamp="1592916577087">
+    <state x="1299" y="85" key="CommitChangelistDialog2" timestamp="1593002870957">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1299" y="85" key="CommitChangelistDialog2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592916577087" />
+    <state x="1299" y="85" key="CommitChangelistDialog2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1593002870957" />
     <state width="1220" height="279" key="GridCell.Tab.0.bottom" timestamp="1592227301769">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -195,10 +204,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1421" y="165" key="SettingsEditor/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1591967816955" />
-    <state x="1274" y="253" key="Vcs.Push.Dialog.v2" timestamp="1592916624014">
+    <state x="1274" y="253" key="Vcs.Push.Dialog.v2" timestamp="1593002904174">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1274" y="253" key="Vcs.Push.Dialog.v2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592916624014" />
+    <state x="1274" y="253" key="Vcs.Push.Dialog.v2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1593002904174" />
     <state x="1576" y="242" key="run.anything.popup" timestamp="1592658653063">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
