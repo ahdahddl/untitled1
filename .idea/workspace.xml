@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3f469a9f-9146-4b17-8726-17b0c1df9591" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aboutus.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +78,9 @@
       <workItem from="1592915589683" duration="39000" />
       <workItem from="1592915645763" duration="1007000" />
       <workItem from="1593002347823" duration="575000" />
-      <workItem from="1593087517486" duration="2280000" />
+      <workItem from="1593087517486" duration="2355000" />
+      <workItem from="1594298461563" duration="265000" />
+      <workItem from="1594298744563" duration="1273000" />
     </task>
     <task id="LOCAL-00001" summary="초기 코드">
       <created>1592225752092</created>
@@ -156,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593002881101</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="bootstrap 숙제2 미완성">
+      <created>1593089831683</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1593089831683</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,17 +183,18 @@
     <MESSAGE value="bootstrap Table, Card" />
     <MESSAGE value="bootstrap Image, Media" />
     <MESSAGE value="bootstrap Alert" />
-    <option name="LAST_COMMIT_MESSAGE" value="bootstrap Alert" />
+    <MESSAGE value="bootstrap 숙제2 미완성" />
+    <option name="LAST_COMMIT_MESSAGE" value="bootstrap 숙제2 미완성" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1672" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592226820510">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1672" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592226820510" />
-    <state x="1299" y="85" key="CommitChangelistDialog2" timestamp="1593002870957">
+    <state x="1299" y="85" key="CommitChangelistDialog2" timestamp="1593089822914">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1299" y="85" key="CommitChangelistDialog2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1593002870957" />
+    <state x="1299" y="85" key="CommitChangelistDialog2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1593089822914" />
     <state width="1220" height="279" key="GridCell.Tab.0.bottom" timestamp="1592227301769">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -200,14 +211,14 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1220" height="279" key="GridCell.Tab.0.right/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1592227301769" />
-    <state x="1421" y="165" key="SettingsEditor" timestamp="1591967816955">
+    <state x="1421" y="165" key="SettingsEditor" timestamp="1594298575321">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1421" y="165" key="SettingsEditor/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1591967816955" />
-    <state x="1274" y="253" key="Vcs.Push.Dialog.v2" timestamp="1593002904174">
+    <state x="1421" y="165" key="SettingsEditor/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1594298575321" />
+    <state x="1274" y="253" key="Vcs.Push.Dialog.v2" timestamp="1593089842287">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1274" y="253" key="Vcs.Push.Dialog.v2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1593002904174" />
+    <state x="1274" y="253" key="Vcs.Push.Dialog.v2/0.0.2560.1040/2560.0.1920.1040@0.0.2560.1040" timestamp="1593089842287" />
     <state x="1576" y="242" key="run.anything.popup" timestamp="1592658653063">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
